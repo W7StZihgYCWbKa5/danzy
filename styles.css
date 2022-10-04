@@ -1,0 +1,18 @@
+body {
+  
+}
+
+h1 {
+  color: #EEEEEE;
+}
+
+h3 {
+  color:#EEEEEE;
+}
+
+hr {
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+}
